@@ -11,15 +11,10 @@
 # print(type(age)) # str
 # next_10_years = age + 10  ---> TypeError : str + int
 # print(next_10_years)
-#---------------------------------
-# int()
+
 age = int(input("What is your age?"))
 print(type(age)) # int
 next_10_years = age + 10
 print(next_10_years)
 
 ### this is my github repository
-
-
-
-
